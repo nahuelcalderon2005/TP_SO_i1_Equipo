@@ -2,3 +2,7 @@ Datos de ALFA
 Nombre: Nahuel Agustín Calderón
 IP: 197.168.1.9
 Hora: 10:30
+Datos de BETA
+Nombre: alexis Argañaraz
+IP: 162.178.1.64
+Hora: 10:33
