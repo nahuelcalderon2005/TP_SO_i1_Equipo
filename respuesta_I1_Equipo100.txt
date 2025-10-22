@@ -7,3 +7,4 @@ Si, los otros integrantes pueden ver los archivos subidos por BETA.
 d-¿De qué forma se comunicaron ustedes?
 Nos comunicamos via Discord
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+La mejor forma para comunicarse dentro de GitHub es a traves de los proyectos.
