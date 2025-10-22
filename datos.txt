@@ -6,3 +6,7 @@ Datos de BETA
 Nombre: alexis Argañaraz
 IP: 162.178.1.64
 Hora: 10:33
+Datos de GAMMA
+Nombre: Matias Achucarro
+IP: 162.178.1.105
+Hora: 11:00
